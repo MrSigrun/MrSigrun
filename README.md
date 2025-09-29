@@ -3,7 +3,7 @@
 ## 🚀 About Me  
 - 💻 Passionate C++ developer  
 - 🎓 Teaching Assistant for Data Structures  
-- 📚 Interested in Algorithms, Operating Systems, and Computational Theory  
+- 📚 Interested in Algorithms and Operating Systems  
 - 🎮 Gamer at heart (Dota 2, Clash Royale, Soulsborne titles)  
 - 🌱 Currently exploring advanced system programming and competitive programming challenges  
 
@@ -13,7 +13,7 @@
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
-- **Core Areas:** Algorithms & Data Structures, Operating Systems, Theory of Computation, Competitive Programming  
+- **Core Areas:** Algorithms & Data Structures, Operating Systems, Competitive Programming  
 - **Tools:** Git, GitHub, Docker, VS Code
 
 ---
@@ -27,12 +27,6 @@
 
 - 📊 **[Segment Tree & Fenwick Tree Library](https://github.com/yourusername/segment-fenwick)**  
   Optimized range queries for competitive programming.  
-
----
-
-## 📈 GitHub Stats  
-![Raeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
 
 ---
 
