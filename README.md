@@ -6,7 +6,7 @@
 - 💻 Passionate C++ developer  
 - 🎓 Teaching Assistant for Data Structures  
 - 📚 Interested in Algorithms and Operating Systems  
-- 🎮 Gamer at heart (Dota 2, Clash Royale, Soulsborne titles)  
+- 🎮 Gamer at heart (Dota 2, Soulsborne titles)  
 - 🌱 Currently exploring advanced system programming and competitive programming challenges
 - 📫 How to reach me **raeen.askari8001@gmail.com**
 <p align="left">
