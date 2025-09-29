@@ -29,7 +29,7 @@
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Projects  
 <table>
   <tr>
     <td align="center" width="25%">
