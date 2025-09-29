@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/raeen-askari-4b71262a0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raeen askari" height="30" width="40" /></a>
 <a href="https://instagram.com/raeen.askari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raeen.askari" height="30" width="40" /></a>
-<a href="https://t.me/yourusername" target="_blank"><img align="center" src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" height="30" width="40" /></a>
+<a href="https://t.me/MrSigrun" target="_blank"><img align="center" src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" height="30" width="40" /></a>
 </p>
 
 ---
