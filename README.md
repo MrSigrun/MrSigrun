@@ -16,14 +16,15 @@
 ---
 
 ## 🔧 Tech Stack  
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
 </p>
 
-- **Core Areas:** Algorithms & Data Structures, Operating Systems, Competitive Programming  
-- **Tools:** Git, GitHub, Docker, VS Code
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,vscode)](https://skillicons.dev)
+
+**Core Areas:** Algorithms & Data Structures, Operating Systems, Competitive Programming  
 
 ---
 
