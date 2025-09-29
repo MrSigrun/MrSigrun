@@ -10,7 +10,9 @@
 ---
 
 ## 🔧 Tech Stack  
-- **Languages:** C++, C  
+<h3 align="left">Languages:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+
 - **Core Areas:** Algorithms & Data Structures, Operating Systems, Theory of Computation, Competitive Programming  
 - **Tools:** Git, GitHub, Docker, VS Code
 
@@ -34,11 +36,10 @@
 
 ---
 
-## 📫 Connect with Me  
-- 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)  
-- 📧 Email: your.email@example.com  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+## 📫 Connect with Me   
 - 📫 How to reach me **raeen.askari8001@gmail.com**
+<p align="left">
+<a href="https://www.linkedin.com/in/raeen-askari-4b71262a0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raeen askari" height="30" width="40" /></a>
+<a href="https://instagram.com/raeen.askari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raeen.askari" height="30" width="40" /></a>
+</p>
 
----
-⭐️ From [yourusername](https://github.com/yourusername)
