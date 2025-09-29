@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raeen</h1>
 
+![image](https://github.com/MrSigrun/MrSigrun/blob/main/848d31111837281.60095fca08985.gif?raw=true)
+
 ## 🚀 About Me  
 - 💻 Passionate C++ developer  
 - 🎓 Teaching Assistant for Data Structures  
