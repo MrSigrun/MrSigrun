@@ -5,7 +5,13 @@
 - 🎓 Teaching Assistant for Data Structures  
 - 📚 Interested in Algorithms and Operating Systems  
 - 🎮 Gamer at heart (Dota 2, Clash Royale, Soulsborne titles)  
-- 🌱 Currently exploring advanced system programming and competitive programming challenges  
+- 🌱 Currently exploring advanced system programming and competitive programming challenges
+- 📫 How to reach me **raeen.askari8001@gmail.com**
+<p align="left">
+<a href="https://www.linkedin.com/in/raeen-askari-4b71262a0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raeen askari" height="30" width="40" /></a>
+<a href="https://instagram.com/raeen.askari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raeen.askari" height="30" width="40" /></a>
+<a href="https://t.me/yourusername" target="_blank"><img align="center" src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" height="30" width="40" /></a>
+</p>
 
 ---
 
@@ -27,14 +33,4 @@
 
 - 📊 **[Segment Tree & Fenwick Tree Library](https://github.com/yourusername/segment-fenwick)**  
   Optimized range queries for competitive programming.  
-
----
-
-## 📫 Connect with Me   
-- 📫 How to reach me **raeen.askari8001@gmail.com**
-<p align="left">
-<a href="https://www.linkedin.com/in/raeen-askari-4b71262a0/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raeen askari" height="30" width="40" /></a>
-<a href="https://instagram.com/raeen.askari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raeen.askari" height="30" width="40" /></a>
-<a href="https://t.me/yourusername" target="_blank"><img align="center" src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" height="30" width="40" /></a>
-</p>
 
