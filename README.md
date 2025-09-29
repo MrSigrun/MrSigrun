@@ -34,9 +34,6 @@
   <tr>
     <td align="center" width="25%">
       <a href="https://github.com/yourusername/project1">
-        <img src="https://via.placeholder.com/300x200.png?text=Project+1"
-             alt="Project 1"
-             style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Project One</b><br/>
@@ -47,9 +44,6 @@
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/yourusername/project2">
-        <img src="https://via.placeholder.com/300x200.png?text=Project+2"
-             alt="Project 2"
-             style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Project Two</b><br/>
@@ -60,9 +54,6 @@
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/yourusername/project3">
-        <img src="https://via.placeholder.com/300x200.png?text=Project+3"
-             alt="Project 3"
-             style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Project Three</b><br/>
@@ -73,9 +64,6 @@
     </td>
     <td align="center" width="25%">
       <a href="https://github.com/yourusername/project4">
-        <img src="https://via.placeholder.com/300x200.png?text=Project+4"
-             alt="Project 4"
-             style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
       <b>Project Four</b><br/>
