@@ -1,4 +1,4 @@
-# Hi there, I'm Raeen 👋
+<h1 align="center">Hi 👋, I'm Raeen</h1>
 
 ## 🚀 About Me  
 - 💻 Passionate C++ developer  
@@ -37,7 +37,8 @@
 ## 📫 Connect with Me  
 - 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)  
 - 📧 Email: your.email@example.com  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📫 How to reach me **raeen.askari8001@gmail.com**
 
 ---
 ⭐️ From [yourusername](https://github.com/yourusername)
