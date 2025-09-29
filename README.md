@@ -10,9 +10,9 @@
 ---
 
 ## 🔧 Tech Stack  
-- **Languages:** C++, Java, Python, C  
+- **Languages:** C++, C  
 - **Core Areas:** Algorithms & Data Structures, Operating Systems, Theory of Computation, Competitive Programming  
-- **Tools:** Git, GitHub, Docker, VS Code, Linux  
+- **Tools:** Git, GitHub, Docker, VS Code
 
 ---
 
