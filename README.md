@@ -34,45 +34,55 @@
 ## 📌 Projects  
 <table>
   <tr>
-    <td align="center" width="25%">
-      <a href="https://github.com/yourusername/project1">
+    <td align="center" width="20%">
+      <a href="https://github.com/SadeghHeydarii/XV6-Project">
       </a>
       <br/>
       <b>Project One</b><br/>
-      <sub>Short description of your project.</sub><br/>
-      🔗 <a href="https://github.com/yourusername/project1">Repo</a>
+      <sub>An extended version of the xv6 operating system with added features.</sub><br/>
+      🔗 <a href="https://github.com/SadeghHeydarii/XV6-Project">Repo</a>
       <br/>
-      <sub>Tags: C++, Algorithms</sub>
+      <sub>Tags: #OperatingSystems #xv6 #CProgramming</sub>
     </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/yourusername/project2">
+    <td align="center" width="20%">
+      <a href="https://github.com/SadeghHeydarii/CPU-Scheduling-Simulation">
       </a>
       <br/>
       <b>Project Two</b><br/>
-      <sub>Short description of your project.</sub><br/>
-      🔗 <a href="https://github.com/yourusername/project2">Repo</a>
+      <sub>CPU scheduling simulator in C++ with FCFS, SJF, and Round Robin.</sub><br/>
+      🔗 <a href="https://github.com/SadeghHeydarii/CPU-Scheduling-Simulation">Repo</a>
       <br/>
-      <sub>Tags: Data Structures, Trees</sub>
+      <sub>Tags: #CPUScheduling #Simulation #OperatingSystems #C++</sub>
     </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/yourusername/project3">
+    <td align="center" width="20%">
+      <a href="https://github.com/SadeghHeydarii/Syncronization-Problem-TA-Student-Simulation">
       </a>
       <br/>
       <b>Project Three</b><br/>
-      <sub>Short description of your project.</sub><br/>
-      🔗 <a href="https://github.com/yourusername/project3">Repo</a>
+      <sub>C++ simulation of the Sleeping TA synchronization problem.</sub><br/>
+      🔗 <a href="https://github.com/SadeghHeydarii/Syncronization-Problem-TA-Student-Simulation">Repo</a>
       <br/>
-      <sub>Tags: Operating Systems, xv6</sub>
+      <sub>Tags: #Synchronization #Threads #C++</sub>
     </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/yourusername/project4">
+    <td align="center" width="20%">
+      <a href="https://github.com/SadeghHeydarii/Multithreaded-Sorting-Application">
       </a>
       <br/>
       <b>Project Four</b><br/>
-      <sub>Short description of your project.</sub><br/>
-      🔗 <a href="https://github.com/yourusername/project4">Repo</a>
+      <sub>A multithreaded C++ program that sorts data in parallel.</sub><br/>
+      🔗 <a href="https://github.com/SadeghHeydarii/Multithreaded-Sorting-Application">Repo</a>
       <br/>
-      <sub>Tags: Graphs, Metro Planner</sub>
+      <sub>Tags: #Multithreading #Sorting #C++</sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/SadeghHeydarii/Sudoku-Solution-Validator">
+      </a>
+      <br/>
+      <b>Project Five</b><br/>
+      <sub>A tool (in code) that checks whether a completed Sudoku board is valid.</sub><br/>
+      🔗 <a href="https://github.com/SadeghHeydarii/Sudoku-Solution-Validator">Repo</a>
+      <br/>
+      <sub>Tags: #Sudoku #Validator #C++</sub>
     </td>
   </tr>
 </table>
